@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/AhmedHamdy85/AhmedHamdy85/blob/main/logo.jpeg)](https://rishavchanda.io)
+[![MasterHead](https://github.com/PenPro-Team/.github/blob/main/penprologo.jpg)](https://rishavchanda.io)
 
 
 # Pen-Pro Team
